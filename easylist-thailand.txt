@@ -59,7 +59,7 @@ box-anime.com##.text-center-ads
 box-anime.com##p.text-center
 box-anime.com##div.slider-r
 box-anime.com##div.slider.l
-box-anime.com##div.module_home_x
+boss-anime.com##div.module_home_x
 hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
 hime-anime.com##body>div.hide
 https://misa-anime.com/assets/js/ads.core.js?
